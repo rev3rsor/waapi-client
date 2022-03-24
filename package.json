@@ -1,5 +1,5 @@
 {
-  "name": "waapi-client",
+  "name": "@rev3rsor/waapi-client",
   "version": "2022.0.0",
   "description": "Wwise Authoring API Client",
   "scripts": {
